@@ -2,9 +2,9 @@
 
 # 💫About Me :
 
-I am a codenewbie who just started learning coding in January 2021, I am currently learning and building react projects at the same time.
+My name is Nam Nguyen. I started learning how to code in January 2021 and spent most of my day experimenting with HTML, CSS and JavaScript, React.
+I enjoy coding and the challenge of learning something new everyday. 
 
-I also join the #100daysofcodechallenge as a way to hold myself accountable and keep being motivated while studying because I spend most of my time learning coding alone, and isolated due to the ongoing pandemic.
 <br></br>
 
 ## 👀 Where to find me
